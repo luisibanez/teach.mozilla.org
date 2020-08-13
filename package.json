@@ -57,7 +57,7 @@
     "simplecrawler": "^0.5.2",
     "supertest": "^1.0.1",
     "marked": "^0.3.3",
-    "open": "0.0.5"
+    "open": "7.1.0"
   },
   "scripts": {
     "postinstall": "gulp postinstall",

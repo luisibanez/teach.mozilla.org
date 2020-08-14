@@ -30,7 +30,7 @@
     "lwip": "0.0.5",
     "mapbox.js": "^2.1.5",
     "merge-stream": "^0.1.7",
-    "minimatch": "^2.0.8",
+    "minimatch": "^3.0.4",
     "minimist": "^1.1.1",
     "mocha": "^2.1.0",
     "mofo-style": "^1.0.1",

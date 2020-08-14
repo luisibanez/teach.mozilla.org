@@ -42,7 +42,7 @@
     "replace-ext": "0.0.1",
     "should": "^5.1.0",
     "source-map-support": "^0.2.10",
-    "superagent": "^1.1.0",
+    "superagent": "^6.0.0",
     "svgo": "^0.5.2",
     "through2": "^2.0.0",
     "underscore": "^1.8.2",
